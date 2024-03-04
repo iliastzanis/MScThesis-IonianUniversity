@@ -1,1 +1,1 @@
-# Diploma-Thesis-IonianUniversity
+# Diploma Thesis at IonianUniversity
