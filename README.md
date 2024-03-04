@@ -8,7 +8,7 @@ This Diploma thesis dives into predicting cryptocurrency prices, with a particul
 #### ARIMAX Model
 ![ARIMA Model](https://github.com/iliastzanis/DiplomaThesis-IonianUniversity/blob/main/images/arimax.jpg)
 
-- **Notebook:** [ARIMA Model Notebook](https://github.com/iliastzanis/DiplomaThesis-IonianUniversity/blob/main/models/arimaX.ipynb)
+- **Notebook:** [ARIMAX Model Notebook](https://github.com/iliastzanis/DiplomaThesis-IonianUniversity/blob/main/models/arimaX.ipynb)
 - **Root Mean Squared Error:** `508.450`
 - **R-squared Value:** `0.992`
 
