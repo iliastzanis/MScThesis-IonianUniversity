@@ -1,13 +1,11 @@
 # Cryptocurrency Price Prediction Using Deep Learning
 ## Diploma Thesis at Ionian University
 
-![Bitcoin Prediction](URL_TO_YOUR_IMAGE)
-
-This Diploma thesis focuses on the challenge of cryptocurrency price prediction, with a particular emphasis on Bitcoin, due to its leading role in the market. Utilizing a comprehensive dataset that contains daily Bitcoin prices from September 24, 2019, to February 6, 2024, we developed and compared three distinct deep learning models: ARIMA (AutoRegressive Integrated Moving Average), SVM (Support Vector Machine), and LSTM (Long Short-Term Memory).
+This Diploma thesis dives into predicting cryptocurrency prices, with a particular emphasis on Bitcoin, due to its leading role in the market. Utilizing a comprehensive dataset that contains daily Bitcoin prices from September 24, 2019, to February 6, 2024, I developed and compared three distinct deep learning models: ARIMAX (AutoRegressive Integrated Moving Average with exogenous parameters), SVM (Support Vector Machine), and LSTM (Long Short-Term Memory).
 
 ### Models Overview
 
-#### ARIMA Model
+#### ARIMAX Model
 ![ARIMA Model](https://github.com/iliastzanis/DiplomaThesis-IonianUniversity/blob/main/images/arimax.jpg)
 
 - **Notebook:** [ARIMA Model Notebook](https://github.com/iliastzanis/DiplomaThesis-IonianUniversity/blob/main/models/arimaX.ipynb)
